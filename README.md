@@ -1,8 +1,14 @@
 ---
-services: media-services
-platforms: javascript
-author: 
+page_type: sample
+languages:
+- javascript
+- html
+products:
+- azure
+description: "This plugin logs all the activities performed by the viewer as well as all occurring errors. activities output via javascript console. "
+urlFragment: media-services-javascript-azure-media-player-diagnostic-logger-plugin
 ---
+
 # Media Services: Diagnostics Logger plugin for Azure Media Player
 
 
